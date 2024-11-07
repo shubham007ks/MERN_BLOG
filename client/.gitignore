@@ -1,0 +1,4 @@
+# Common ignores
+node_modules/
+.env
+yarn.lock
